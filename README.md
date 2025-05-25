@@ -1,4 +1,4 @@
-# GRAFOS 03 - HACKERRANK PROBLEM
+# Greedy - HACKERRANK PROBLEM
 
 **Conteúdo da Disciplina**: Grafos 02
 
